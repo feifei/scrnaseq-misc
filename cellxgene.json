@@ -1,0 +1,52 @@
+{
+	"macro_ss2": {
+	"title": "Macrophage fate tracing in muscle ischemia model, 2020",
+	"tissue": "Muscle",
+	"assay": "Smart-seq2",
+	"disease": "normal",
+	"organism": "Mus musculus"
+	},
+	"macro_ss3": {
+	"title": "Macrophage fate tracing in muscle ischemia model, 2022",
+	"tissue": "Muscle",
+	"assay": "Smart-seq3",
+	"disease": "normal",
+	"organism": "Mus musculus"
+	},
+	"macro_int": {
+	"title": "Macrophage fate tracing in muscle ischemia model, integrated",
+	"tissue": "Muscle",
+	"assay": "Smart-seq2/3",
+	"disease": "normal",
+	"organism": "Mus musculus"
+	},
+
+	"tabula_senis_facs": {
+	"title": "Tabula muris senis FACS sorted cells",
+	"tissue": "multiple",
+	"assay": "Smart-seq2",
+	"disease": "normal",
+	"organism": "Mus musculus"
+	},
+        "tabula_senis_10x": {
+        "title": "Tabula muris senis droplet sorted cells",
+        "tissue": "multiple",
+        "assay": "10X",
+        "disease": "normal",
+        "organism": "Mus musculus"
+        },
+	"oprescu": {
+	"title": "Temporal Dynamics and Heterogeneity of Cell Populations during Skeletal Muscle Regeneration",
+	"tissue": "Muscle",
+	"assay": "FACS",
+	"disease": "normal",
+	"organism": "Mus musculus"
+	},
+	"facs_large_intestine": {
+	"title": "Tabula muris senis FACS sorted large intestine cells",
+	"tissue": "Large intestine",
+	"assay": "Smart-seq2",
+	"disease": "normal",
+	"organism": "Mus musculus"
+	}
+}
